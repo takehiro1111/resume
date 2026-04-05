@@ -65,9 +65,31 @@ title: Resume
 <br>
 
 # アウトプット
-- **GitHub** https://github.com/takehiro1111
-- **Zenn** https://zenn.dev/takehiro1111
-- **Qita** https://qiita.com/takehiro1111
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takehiro1111)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/takehiro1111)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/takehiro1111)
+
+<br>
+
+# 資格
+
+| 取得年月 | 資格名 |
+| -------- | ------ |
+| 2024/4   | AWS Certified Developer - Associate |
+| 2023/5   | LinuC 201 |
+| 2023/4   | Cisco Certified Network Associate (200-301 CCNA) |
+| 2023/4   | AWS Certified SysOps Administrator - Associate |
+| 2023/3   | LinuC レベル 1 |
+| 2022/8   | AWS Certified Solutions Architect – Professional ※失効 |
+| 2022/5   | AWS Certified Solutions Architect – Associate ※失効 |
+| 2022/3   | AWS Certified Cloud Practitioner ※失効 |
+| 2021/7   | MOS Access Expert (Microsoft365 Apps and Office 2019) |
+| 2021/7   | MOS Word Expert (Microsoft365 Apps and Office 2019) |
+| 2021/6   | MOS PowerPoint (Microsoft365 Apps and Office 2019) |
+| 2021/5   | MOS Excel Expert (Microsoft365 Apps and Office 2019) |
+| 2021/4   | ITパスポート |
+
 
 <br>
 
