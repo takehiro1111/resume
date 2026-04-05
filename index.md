@@ -3,6 +3,20 @@ layout: default
 title: Resume
 ---
 
+# 目次
+
+- [基本情報](#basic)
+- [職務要約](#summary)
+- [働く上で大事にしたい価値観](#values)
+- [スキルセット](#skills)
+- [自己PR](#pr)
+- [アウトプット](#output)
+- [資格](#certifications)
+- [経歴](#career)
+
+<br>
+
+<a id="basic"></a>
 # 基本情報
 
 | 項目名   | 内容                           |
@@ -13,13 +27,15 @@ title: Resume
 
 <br>
 
+<a id="summary"></a>
 # 職務要約
 エンジニアとしてSRE,インフラをメインに約3年経験しております。<br>
-直近はアプリケーション開発も対応しております。<br>
+直近はアプリケーション開発も経験しております。<br>
 ビジネス課題を主体的に見つけながら、より技術横断的にプロダクトの成長にコミットしたいと考えております。
 
 <br>
 
+<a id="values"></a>
 # 働く上で大事にしたい価値観
 - 技術的な研鑽だけでなく、プロダクト思考を軸にユーザーや社会へ貢献する意識を持ちながら働くこと。
 - オープンマインドで人と関わり、フラットな関係性でコミュニケーションを取りながら物事を前に進めること。
@@ -28,6 +44,7 @@ title: Resume
 
 <br>
 
+<a id="skills"></a>
 # スキルセット
 
 ### 言語・フレームワーク
@@ -55,6 +72,7 @@ title: Resume
 
 <br>
 
+<a id="pr"></a>
 # 自己PR
 ### 主体的な課題発見と解決
 - 「こんな機能があったら良いな」「このコードはリファクタリングした方が良い」等、主体的に課題を見つけて対応することを心がけています。
@@ -64,6 +82,7 @@ title: Resume
 
 <br>
 
+<a id="output"></a>
 # アウトプット
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/takehiro1111)
@@ -72,6 +91,7 @@ title: Resume
 
 <br>
 
+<a id="certifications"></a>
 # 資格
 
 | 取得年月 | 資格名 |
@@ -93,6 +113,7 @@ title: Resume
 
 <br>
 
+<a id="career"></a>
 # 経歴
 ## 株式会社スリーシェイク(正社員)
 2025年11月 ~ 現在
