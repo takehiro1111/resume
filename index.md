@@ -79,7 +79,7 @@ title: Resume
 | 2024/4   | AWS Certified Developer - Associate |
 | 2023/5   | LinuC 201 |
 | 2023/4   | Cisco Certified Network Associate (200-301 CCNA) |
-| 2023/4   | AWS Certified SysOps Administrator - Associate |
+| 2023/4   | AWS Certified SysOps Administrator - Associate ※失効 |
 | 2023/3   | LinuC レベル 1 |
 | 2022/8   | AWS Certified Solutions Architect – Professional ※失効 |
 | 2022/5   | AWS Certified Solutions Architect – Associate ※失効 |
@@ -112,7 +112,7 @@ title: Resume
 ### 案件
 ### 大手Sier企業の内部基盤のアプリケーション開発,運用改善
 #### 社内ワークフローシステムの機能開発,性能改善, インフラ運用改善
-- GitLab Runnerで実行されるビルドの速度改善(25-30min→10-15min)
+- GitLab Runnerで実行されるビルドの速度改善(30min→10min)
 - テナント(部署)配下のユーザー一覧表示の速度改善(2s→0.8ms)
 - ユーザー登録機能, 表示画面のUI/UX改善
 - アプリケーション上でECRリポジトリを操作する機能の設計, 実装
@@ -153,7 +153,7 @@ title: Resume
 - 新規,既存プロダクトのインフラ環境の設計,構築,運用改善,障害対応
 - 全環境のネットワーク構成をVPC Originへ移行
 - GCPリソースのTerraform化
-- GithubActionsでのCI/CD構築(AWS, Azure, Google Cloud, SAM)
+- GitHub ActionsでのCI/CD構築(AWS, Azure, Google Cloud, SAM)
 - GA4からBigQueryへのデータ連携パイプラインを構築し、Redashで可視化
 - 全セキュリティグループの整備、公式Moduleへのリファクタリング
 - MySQLのDB基盤をEC2からAuroraへ移行
@@ -161,8 +161,9 @@ title: Resume
 - ECSのAutoScaling閾値調整
 - OpenSearchのバージョン更新、Kibanaのインデックス管理
 - Lambdaのバージョンアップ対応
-- サーバレス環境におけるログやモニタリング基盤の改修,リファクタリング
+- サーバレス環境におけるログやモニタリング及び通知基盤の改修,リファクタリング
 - オンコール体制, 基盤の整備, 改修
+- Lambdaランタイムのバージョン更新対応
 
 <br>
 
