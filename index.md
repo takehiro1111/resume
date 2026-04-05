@@ -136,7 +136,7 @@ title: Resume
 
 ### 技術スタック
 - **言語**: Python, TypeScript, JavaScript, Scala
-- **FW**: Nest.js, Sveltekit, Play
+- **FW**: Nest.js, Sveltekit
 - **基盤**: AWS, Azure, Google Cloud
 - **DB**: EC2 on MySQL, Aurora MySQL, DynamoDB, BigQuery, Redshift
 - **IaC**: Terraform, CloudFormation
