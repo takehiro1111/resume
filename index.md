@@ -13,6 +13,7 @@ title: Resume
 - [アウトプット](#output)
 - [資格](#certifications)
 - [経歴](#career)
+- [SREとして貢献できること →](./sre)
 
 <br>
 
@@ -129,6 +130,7 @@ title: Resume
 - **DB**: Aurora MySQL, Cloud SQL for PostgreSQL
 - **IaC**: Terraform
 - **監視**: Prometheus, Grafana, CloudWatch
+- **AI**: Gemini, Claude Code, Devin
 
 ### 案件
 ### 大手Sier企業の内部基盤のアプリケーション開発,運用改善
@@ -138,14 +140,17 @@ title: Resume
 - ユーザー登録機能, 表示画面のUI/UX改善
 - アプリケーション上でECRリポジトリを操作する機能の設計, 実装
 - バリデーション処理の追加
+- ORM(Prisma)のバージョンをv5からv7へ更新
 - 軽微なバグ改修
 
-### 自社の新規プロダクト開発(社内OSS)
+### 自社の新規プロダクト開発
 #### 生成AIアプリケーションの機能追加, 改善, バグ修正
 - UIでサイドバーの調整機能
 - スクロール機能
 - スレッドの切り替えやリロードの際に最新の会話が常に表示される
+- スレッド単位で状態管理が出来るよう機能修正
 - エラーメッセージの表示修正
+- Terraformワークフローの作成(plan/apply)
 
 <br>
 
@@ -162,6 +167,7 @@ title: Resume
 - **DB**: EC2 on MySQL, Aurora MySQL, DynamoDB, BigQuery, Redshift
 - **IaC**: Terraform, CloudFormation
 - **監視**: Prometheus, Grafana, CloudWatch, OpenSearch, Kibana
+- **AI**:  Gemini, Claude Code
 
 ### 業務内容
 - Terraformを用いた全プロダクトのインフラ環境の設計、構築、運用改善、障害対応
