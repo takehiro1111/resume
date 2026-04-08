@@ -21,7 +21,7 @@ AWS を中心としたクラウドインフラの設計・構築から、IaC 管
 | コンテナ | Docker, ECS, EKS |
 | CI/CD | GitHub Actions, GitLab CI/CD |
 | DB | Aurora MySQL, Cloud SQL for PostgreSQL, DynamoDB, BigQuery, Redshift |
-| 監視 | Prometheus, Grafana, CloudWatch, OpenSearch, Kibana
+| 監視 | Prometheus, Grafana, CloudWatch, OpenSearch, Kibana |
 
 ---
 
@@ -35,23 +35,17 @@ AWS を中心としたクラウドインフラの設計・構築から、IaC 管
 - 小規模組織での経験にはなりますが、障害が起きた際のインシデントコマンダーも対応したことがあるため、周囲と協力して迅速な復旧に寄与出来るよう尽力します。
 - マルチアカウント環境の整備も対応致します。
 
----
-
 ## 2. Infrastructure as Code (IaC)
 - Terraform
   - マルチクラウド対応やGitHubのリポジトリをコードで管理したい場合等のTerraformの導入から運用改善が可能です。
 - AWS CDK
   - 少々慣れる必要はありますが、TypeScriptの経験とCloudFormationの原理は理解済みのため問題なく適応できると考えております。
 
----
-
 ## 3. CI/CD パイプライン構築・運用改善
 - GitHub Actions / GitLab CI/CDでアプリケーション並びにインフラリソースのデプロイ環境を整備することで、開発生産性の向上に寄与できます。
   - 直近はアプリケーションのデプロイに約30分かかっていた環境を10分前後まで短縮しました。
 - デプロイ基盤の整備
   - Merge後にLambdaやGitHubActionsを活用して、Slackでの対話的な処理でデプロイを実行する等のニーズに応じたデプロイ環境を構築。
-
----
 
 ## 4. 監視・オブザーバビリティ
 - Prometheus, AlertManager等を用いた外形監視の構築, 運用改善
@@ -64,8 +58,6 @@ AWS を中心としたクラウドインフラの設計・構築から、IaC 管
 - オンコール基盤の構築
   - TwilioのようなAPIがあれば、SaaSに頼らなくてもAPIベースでLambda等を用いてオンコール基盤を構築できます。
 
----
-
 ## 5. プロダクトのパフォーマンス改善
 - アプリケーション側でのパフォーマンス改善
   - シーケンシャルな処理の並列化（例: 一覧表示画面の処理を2s→0.8msに短縮）
@@ -73,29 +65,21 @@ AWS を中心としたクラウドインフラの設計・構築から、IaC 管
 - インフラ環境でのAutoScaling閾値調整
 - キャッシュの活用
 
----
-
 ## 6. トイル削減・自動化
 - LambdaやGitHub Actions等を用いたトイルの解消
   - 各クラウド基盤のコスト通知
   - 定型作業の自動化
   - 開発組織で使用するツールのアカウント管理のTerraform化
 
----
-
 ## 7. データ基盤・可視化
 - GA4 → BigQuery へのデータ連携パイプライン構築、Redashで可視化することでマーケティング施策の効率的な立案に繋げた実績があります。
 - Redshift → Redashのデータ連携での可視化
-
----
 
 ## 8. セキュリティ
 - セキュリティグループの整備
 - WAFのルール整備
 - Security HubやGuardDutyの設定による脅威検知,通知基盤の整備
 - CloudFrontを使用している場合のVPC Origin移行によるネットワークセキュリティ強化
-
----
 
 ## 9. コスト削減
 - 不要なリソースの削除等の整理
@@ -107,8 +91,6 @@ AWS を中心としたクラウドインフラの設計・構築から、IaC 管
 - ECRイメージのライフサイクルポリシーやS3の整備
 - アプリケーションのイメージをARM64へ移行
 - コスト配分タグの整備
-
----
 
 上記以外にも、SLI/SLOの設定・運用やMLOpsなど、実務経験のない領域やツールについてもキャッチアップしながら対応いたします。
 
