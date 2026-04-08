@@ -8,6 +8,8 @@ title: SREとして貢献できること
 AWS を中心としたクラウドインフラの設計・構築から、IaC 管理、CI/CD パイプラインの整備、監視・オンコール基盤の構築まで、プロダクトの信頼性を支える一連の業務に対応できます。  
 また、TypeScript中心にアプリケーション開発経験があり、インフラとアプリケーションの両面からパフォーマンス改善やトイル削減に取り組むことが可能です。
 
+<br>
+
 ## 技術スタック
 
 | カテゴリ | 技術 |
@@ -20,6 +22,8 @@ AWS を中心としたクラウドインフラの設計・構築から、IaC 管
 | CI/CD | GitHub Actions, GitLab CI/CD |
 | DB | Aurora MySQL, Cloud SQL for PostgreSQL, DynamoDB, BigQuery, Redshift |
 | 監視 | Prometheus, Grafana, CloudWatch, OpenSearch, Kibana |
+
+<br>
 
 ---
 
