@@ -21,7 +21,7 @@ AWS を中心としたクラウドインフラの設計・構築から、IaC 管
 | コンテナ | Docker, ECS, EKS |
 | CI/CD | GitHub Actions, GitLab CI/CD |
 | DB | Aurora MySQL, Cloud SQL for PostgreSQL, DynamoDB, BigQuery, Redshift |
-| 監視 | Prometheus, Grafana, CloudWatch, OpenSearch, Kibana |
+| 監視 | Prometheus, Grafana, CloudWatch, OpenSearch, Kibana
 
 ---
 
