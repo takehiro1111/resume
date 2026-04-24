@@ -127,7 +127,7 @@ title: Resume
 
 ### 技術スタック
 - **言語**: TypeScript, Python, Go
-- **FW**: Next.js, Hono, FastAPI
+- **FW**: Next.js, Hono, FastAPI, Huma
 - **基盤**: AWS, Google Cloud
 - **DB**: Aurora MySQL, Cloud SQL for PostgreSQL
 - **IaC**: Terraform
